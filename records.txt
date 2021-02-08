@@ -1,0 +1,6 @@
+User{Id='1001', age=24, name='Sonu', course='BTech'}
+User{Id='1002', age=27, name='Varun', course='BTech'}
+User{Id='1003', age=25, name='Rakesh', course='BTech'}
+User{Id='1004', age=24, name='Vishal', course='BTech'}
+User{Id='1005', age=26, name='Ritu', course='BTech'}
+User{Id='1006', age=24, name='Kanika', course='BTech'}
